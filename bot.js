@@ -21,7 +21,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  botResponse = "Never gonna give you up! https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
   options = {
     hostname: 'api.groupme.com',
